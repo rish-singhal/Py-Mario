@@ -24,11 +24,15 @@
 
 ## CODE FEATURES:
      - Mostly did this well as i had less time due to lack of laptop
-
+     
      -Highly Modular Code ( All the core elements seperated into different modules )
+     
      -Encapsulation ( Mario, Enemies, Entities ,.. have their private methods )
+     
      -Inheritance ( Used everywhere whenever required... Enemies and Mario are inherited from same class Person && Stairs are inherited from Entity )
+     
      -Polymorphism( some functions are over-written by Enemy and Mario)
+     
      -Follows PEP8 coding standards
 
 ## CONTROLS:
